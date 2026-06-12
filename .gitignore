@@ -39,4 +39,4 @@ Thumbs.db
 # Add Node modules below #
 ################
 
-modules/
+node_modules/
